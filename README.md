@@ -16,7 +16,7 @@ Although there is only one consumer module in this repo, that one module will re
 ## Screenshots
 ![My screenshot](console_running.PNG)
 Above we can see the producerin the top left, the druid consumer in the bottom left, the cleric consumer in the top right, and the wizard consumer in bottom left. notice the difference in which spells are being recorded, as well as our alerts.
-![My screenshot](admin_verview.PNG)
+![My screenshot](admin_overview.PNG)
 The RabbitMQ server overview is pictured above. This gives us a great view of our processies unfolding in real time, and which queues are being consumed.
 ![My screenshot](admin_queues.PNG)
 This screenshot displays the queue view of our RabbitMQ admin page, gives us another look of what consumers are active
